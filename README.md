@@ -121,7 +121,7 @@ This script adjusts bids based on weather conditions, allowing for more effectiv
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/web-lifter/google-ads-scripts.git
+   git clone https://github.com/sayedtaban/google-ads-scripts.git
    ```
 2. Navigate to the script directory you wish to use:
    ```bash
@@ -184,7 +184,3 @@ We welcome contributions! Please follow these steps to contribute:
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact
-
-For any questions or inquiries, please contact [open-source@weblifter.com.au](mailto:open-source@weblifter.com.au).
